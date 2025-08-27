@@ -1,4 +1,6 @@
-[index.html](https://github.com/user-attachments/files/22006109/index.html)
+<head>
+  <link rel=''stylesheet'' href=''styles.css''/>
+</head>
 <body>
 
 <header>ALURAFLIX</header>
