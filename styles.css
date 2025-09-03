@@ -1,8 +1,9 @@
 body {
-  color: white;
-  background: black; 
+  color: #cb64a6;;
+  background: #eda9d9c4;
+
 }
 
 header {
-  border
+  border: solid 2px pink; 
 }
