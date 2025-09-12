@@ -1,9 +1,13 @@
 body {
   color: #b12e75;
   background-color: pink;
-
+  margin: 7px;
+  
 }
 
 header {
   border-bottom: solid 2px rgb(42, 122, 228); 
+  padding: 20px
+  frront-size: 32px
+  color: rbg(42,122, 228)
 }
