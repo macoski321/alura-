@@ -11,4 +11,14 @@ header {
   frront-size: 32px
   color: rbg(42,122, 228)
 }
-section 
+section {
+  background: rbg ( 197,59,115);
+  padding-bottom: 80px
+  padding-top: 80px
+  display: flex;
+  justify-content: center;
+}
+
+.chamada-texto {
+   margin-right: 5%;
+}
