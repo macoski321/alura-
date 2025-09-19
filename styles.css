@@ -1,6 +1,6 @@
 body {
-  color: rgb (197, 59, 115;
-  background-color: pink;
+  color: rbg ( 183, 40, 105);
+  background-color: rbg ( 205, 32, 73);
   margin: 7px;
   
 }
@@ -9,10 +9,10 @@ header {
   border-bottom: solid 2px rgb(42, 122, 228); 
   padding: 20px
   frront-size: 32px
-  color: rbg(42,122, 228)
+  color: rbg(183, 40, 105);
 }
 section {
-  background: rbg ( 197,59,115);
+  background: rbg ( 205, 32,73 / 26%);
   padding-bottom: 80px
   padding-top: 80px
   display: flex;
