@@ -2,6 +2,7 @@ body {
   color: rbg ( 183, 40, 105);
   background-color: rbg ( 205, 32, 73);
   margin: 7px;
+  font-family: "Caprasimo", serif;
   
 }
 
@@ -22,4 +23,5 @@ section {
 
 .chamada-texto {
    margin-right: 5%;
+  
 }
