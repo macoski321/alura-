@@ -3,7 +3,10 @@
 
 <head>
   <link rel=''stylesheet'' href=''styles.css''/>
-  <titulo></titulo>
+  <titulo> macoskiflix</titulo><link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Caprasimo&display=swap" rel="stylesheet">
+  
 </head>
 
 <body>
