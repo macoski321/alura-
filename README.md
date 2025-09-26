@@ -14,6 +14,12 @@
 <header>MACOSKIFLIX</header>
 
   <section>
+    <setion>
+      <h2> Filmes e series </h2>
+    <div>
+      <"https://img.youtube.com/vi/grSoi8i3v_Q/maxresdefault.jpg"/>
+    </div>
+    </setion>
   <div>
 
 
